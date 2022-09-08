@@ -1,0 +1,19 @@
+{
+  "name": "node-docker-example",
+  "version": "1.0.0",
+  "description": "Script in Node.js to run Docker container dynamically",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "docker",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "hector23rp",
+  "license": "MIT",
+  "dependencies": {
+    "dockerode": "^3.3.4"
+  }
+}
